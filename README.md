@@ -1,5 +1,4 @@
 # Family Moments
-- GitHub : https://github.com/familymoments/family-moments-android
 - PlayStore : (배포 후 추가 예정)
 
 <br>
