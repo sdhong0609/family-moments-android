@@ -1,5 +1,5 @@
 # Family Moments
-- PlayStore : 배포 후 추가 예정
+- PlayStore : https://play.google.com/store/apps/details?id=io.familymoments.app
 
 <br>
 
