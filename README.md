@@ -16,20 +16,6 @@
 
 <br>
 
-## 🤖 Android 기술 스택
-
-| 카테고리         | 기술 스택                                         |
-|----------------|------------------------------------------------|
-| UI             | Jetpack Compose                                |
-| Architecture   | MVVM, Single Module                            |
-| DI             | Hilt                                           |
-| Network        | Retrofit                                       |
-| Image          | Coil                                           |
-| Asynchronous   | Coroutines, Flow                               |
-| Jetpack        | ViewModel, Navigation                          |
-
-<br>
-
 ## ✅ 수행 업무
 👇 **제가 이 프로젝트에서 수행한 업무입니다. 다른 팀원들의 수행업무는 포함되어 있지 않습니다.**
 * 메인 화면(MainScreen)
@@ -43,6 +29,20 @@
 * 앨범 화면(AlbumScreen)
     * 가족 간 공유된 사진을 Grid 형태로 나열하였고, 클릭 시 사진을 크게 볼 수 있는 팝업을 구현하였습니다.
 * QA를 통해 확인된 각종 버그 수정
+
+<br>
+
+## 🤖 Android 기술 스택
+
+| 카테고리         | 기술 스택                                         |
+|----------------|------------------------------------------------|
+| UI             | Jetpack Compose                                |
+| Architecture   | MVVM, Single Module                            |
+| DI             | Hilt                                           |
+| Network        | Retrofit                                       |
+| Image          | Coil                                           |
+| Asynchronous   | Coroutines, Flow                               |
+| Jetpack        | ViewModel, Navigation                          |
 
 <br>
 
